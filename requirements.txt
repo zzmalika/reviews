@@ -1,0 +1,3 @@
+google-play-scraper==1.2.7
+apache-airflow
+clickhouse-driver==0.2.9

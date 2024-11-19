@@ -1,0 +1,7 @@
+data/
+reviews_venv/
+logs/
+.DS_Store
+__pycache__/
+scripts/
+config.yaml
