@@ -8,19 +8,19 @@
 ```bash
 python3 -m venv reviews_venv
 source ibit_venv/bin/activate
-
+```
 ### 2. Docker
 
 ```bash
 docker-compose build
 docker-compose up -d
-
+```
 
 ### 3. Open airflow
 
 ```bash
 localhost:8080
-
+```
 
 ### TODO
 
@@ -32,3 +32,4 @@ localhost:8080
 - What if number of reviews for event_date is 0?
 - logging
 - configs, envs
+```
